@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e33b87b94e4c3761e9b998a8a7cc4bcc, type: 3}
+  m_Name: Puzzle 02
+  m_EditorClassIdentifier: 
+  <Question>k__BackingField: What is the color G in RGB?
+  <Answers>k__BackingField:
+  - <Text>k__BackingField: Red
+    <IsCorrect>k__BackingField: 0
+  - <Text>k__BackingField: Green
+    <IsCorrect>k__BackingField: 1
+  - <Text>k__BackingField: Blue
+    <IsCorrect>k__BackingField: 0
